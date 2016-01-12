@@ -1,0 +1,10 @@
+OnInit
+Frame __init__
+<open file 'trace.txt', mode 'a' at 0x0000000003436300> A pretend error message
+before MainLoop
+OnExit
+OnInit
+Frame __init__
+<open file 'trace.txt', mode 'a' at 0x00000000033C5300> A pretend error message
+before MainLoop
+OnExit
